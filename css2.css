@@ -1,0 +1,24 @@
+body{
+    background-image: url("lib6.jpg");
+
+}
+#mainpage
+{
+    text-align: center; 
+    padding: 30px;
+    border:3px solid gray;
+    position: absolute;
+    top: 90px;
+    left: 260px;
+    color: rgb(31, 79, 81);
+    font-family: monospace;
+    font-weight: bold;
+}
+
+#div2
+{
+    color: rgb(31, 79, 81);
+    font-family: monospace;
+    font-size: 40px;
+    font-weight: bold;
+}

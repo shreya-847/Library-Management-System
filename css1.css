@@ -1,0 +1,27 @@
+body
+{
+    background-image: url("lib6.jpg");
+}
+
+
+#abc
+{
+    
+    text-align: center;
+    border: 3px solid grey;
+    position:absolute;
+    padding: 30px;
+    top: 90px;
+    left: 290px;
+    font-family: monospace;
+    font-size: 20px;
+    
+}
+
+#def
+{
+    font-family: monospace;
+    font-size: 30px;
+    position: relative;
+    top : 20px;
+}
